@@ -45,7 +45,7 @@ function FinalCTA() {
 window.FinalCTA = FinalCTA;
 
 const FOOTER_COLS = [
-  { h: "Unbox", items: [["Como funciona?", "#plataforma"], ["Recursos", "Unbox - Features.html"], ["Blog Venda Mais!", "#"], ["Carreiras", "#"]] },
+  { h: "Unbox", items: [["Como funciona?", "#plataforma"], ["Recursos", "Unbox - Features.html"], ["Blog Venda Mais!", "Unbox - Blog.html"], ["Carreiras", "Unbox - Carreiras.html"]] },
   { h: "Produto", items: [["Turbo Checkout", "Unbox - Checkout.html"], ["Crédito UnboxPay", "Unbox - Credito.html"], ["Para indústrias", "Unbox - Industrias.html"], ["Assinatura", "Unbox - Assinatura.html"], ["Creators", "Unbox - Creators.html"]] },
   { h: "Ajuda", items: [["Perguntas frequentes", "#"], ["Central de ajuda", "https://intercom.help/unbox-central-ajuda/pt-BR/"], ["Termos de uso", "#"], ["Privacidade", "#"]] },
 ];
